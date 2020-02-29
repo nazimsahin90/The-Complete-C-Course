@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582963256 source:c:\personal\trainings\the complete c course\confusingmathofc\main.c
+	<stdio.h>
+	<stdlib.h>
+
