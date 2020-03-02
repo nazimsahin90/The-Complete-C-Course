@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583147236 source:c:\personal\trainings\the complete c course\precedenceandassociativity\main.c
+	<stdio.h>
+	<stdlib.h>
+

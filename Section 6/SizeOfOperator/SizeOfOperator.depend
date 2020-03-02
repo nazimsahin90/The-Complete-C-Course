@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583137649 source:c:\personal\trainings\the complete c course\sizeofoperator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
